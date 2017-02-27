@@ -1,0 +1,24 @@
+#中国科学技术大学更新服务器
+#由中科大Linux 用户协会和中科大学网络信息中心维护，包含其他开源镜像，Deepin 官方服务器 实际亦指向此处：
+deb http://debian.ustc.edu.cn/ubuntu/ trusty main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ trusty-backports main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ trusty-proposed main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ trusty-security main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ trusty-updates main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ trusty main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ trusty-backports main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ trusty-proposed main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ trusty-security main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ trusty-updates main multiverse restricted universe
+
+#网易源
+deb http://mirrors.163.com/ubuntu/ precise main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ precise-security main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ precise-updates main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ precise-proposed main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ precise-backports main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-security main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-updates main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-proposed main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-backports main restricted universe multiverse
