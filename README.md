@@ -10,7 +10,6 @@ Base Ubuntu system with OpenSSH-server
     mkdir ubuntu-ssh
     cd ubuntu-ssh
     touch start.sh
-    touch sources.list
     touch Dockerfile
 
 2、Edit start.sh
